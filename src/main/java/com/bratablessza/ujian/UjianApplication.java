@@ -8,6 +8,7 @@ public class UjianApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UjianApplication.class, args);
+//		Ada GITnya
 	}
 
 }
